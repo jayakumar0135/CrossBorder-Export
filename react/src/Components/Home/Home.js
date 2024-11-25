@@ -71,7 +71,7 @@ const Home = () => {
         <div className="main-content">
         <div className="logo">
   <img 
-    src="https://files.oaiusercontent.com/file-KzcyiLbLpec82ehvyV6zgi?se=2024-11-24T15%3A59%3A05Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D931617c7-611f-4117-94e1-165695dffaf4.webp&sig=9MdZxbvnjzm7RYeNlL7DVAdxINwA6vD6qo0ZTQ5sn8M%3D"
+  src="https://cargotrailonline.com/wp-content/uploads/2024/09/Cargo_Logo.png"
     alt="CargoTrail Logo" 
     className="powerbi-logo" 
   />  
